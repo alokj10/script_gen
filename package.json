@@ -1,0 +1,29 @@
+{
+  "name": "script_gen",
+  "version": "0.1.0",
+  "description": "Code generator tool to generate Responsive web application using Bootstrap, AngularJs and NodeJs",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "node-uuid": "^1.4.7",
+    "ncp": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Responsive",
+    "generator",
+    "nodejs",
+    "code",
+    "angular",
+    "bootstrap"
+  ],
+  "author": "Alok Jha",
+  "license": "ISC"
+}
